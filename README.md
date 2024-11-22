@@ -13,7 +13,7 @@ Source: City of Vancouver Open Data Portal
 URL: https://opendata.vancouver.ca/explore/dataset/parking-meters/information/
 ## App Link
 You can access the running instance of the app at:
-https://mriddler.shinyapps.io/Vancouver_Parking/
+[https://mriddler.shinyapps.io/Vancouver_Parking/](https://mriddler.shinyapps.io/Vancouver_Parking/)
 The data includes information about:
 - Meter locations (latitude/longitude)
 - Rates for different times of day
