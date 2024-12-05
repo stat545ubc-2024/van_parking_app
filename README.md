@@ -1,27 +1,27 @@
 # Vancouver Parking Meter Explorer
 ## App Description
-The Vancouver Parking Meter Explorer is an interactive web application that helps users visualize and analyze parking meter data across different neighborhoods in Vancouver. The app features:
-- Interactive map showing parking meter locations
-- Ability to filter meters by neighborhood
+The Vancouver Parking Meter Explorer is an interactive web application that helps users visualize and analyze parking meter data across different neighbourhoods in Vancouver. The app features:
+- Interactive map showing parking meter locations, including motorcycle parking
+- Ability to filter meters by neighbourhood
 - Time-based rate comparison tools
-- Day/time selection options for exploring parking restrictions
 - Detailed information about each meter including rates and payment options
 ## Data Source
-This application uses the City of Vancouver's Open Data Portal parking meter dataset, which is publicly available and regularly updated. The data can be accessed at:
-Dataset: Parking Meter Data
+This application uses the City of Vancouver's Open Data Portal parking meter and motorcycle datasets, which are publicly available and regularly updated. The data can be accessed at:
+Dataset 1: Parking Meter Data
 Source: City of Vancouver Open Data Portal
 URL: https://opendata.vancouver.ca/explore/dataset/parking-meters/information/
+Dataset 2: Motorcycle Data
+Source: City of Vancouver Open Data Portal
+URL: https://opendata.vancouver.ca/explore/dataset/motorcycle-parking/table/
 ## App Link
 You can access the running instance of the app at:
-[https://mriddler.shinyapps.io/Vancouver_Parking/](https://mriddler.shinyapps.io/Vancouver_Parking/)
+[https://mriddler.shinyapps.io/Vancouver_Parking_v2/](https://mriddler.shinyapps.io/Vancouver_Parking_v2/)
 The data includes information about:
 - Meter locations (latitude/longitude)
 - Rates for different times of day
 - Payment methods accepted
-- Time limits
 - Geographic areas
-- Operating hours
-This open dataset allows for full reproducibility and transparency in the app's functionality and analysis.
+This open dataset allows full reproducibility and transparency in the app's functionality and analysis.
 
 
 
