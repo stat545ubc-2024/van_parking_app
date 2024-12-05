@@ -1,0 +1,13 @@
+name: Vancouver_Parking_v2
+title: Vancouver_Parking_v2
+username: mriddler
+account: mriddler
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 13534500
+bundleId: 9469995
+url: https://mriddler.shinyapps.io/Vancouver_Parking_v2/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: parking-meters.csv
