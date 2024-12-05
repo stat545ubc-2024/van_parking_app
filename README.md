@@ -7,12 +7,11 @@ The Vancouver Parking Meter Explorer is an interactive web application that help
 - Detailed information about each meter including rates and payment options
 ## Data Source
 This application uses the City of Vancouver's Open Data Portal parking meter and motorcycle datasets, which are publicly available and regularly updated. The data can be accessed at:
-Dataset 1: Parking Meter Data
-Source: City of Vancouver Open Data Portal
-URL: https://opendata.vancouver.ca/explore/dataset/parking-meters/information/
-Dataset 2: Motorcycle Data
-Source: City of Vancouver Open Data Portal
-URL: https://opendata.vancouver.ca/explore/dataset/motorcycle-parking/table/
+> Parking Meter Data, source: City of Vancouver Open Data Portal
+> URL: https://opendata.vancouver.ca/explore/dataset/parking-meters/information/
+
+> Motorcycle Data, source: City of Vancouver Open Data Portal
+> URL: https://opendata.vancouver.ca/explore/dataset/motorcycle-parking/table/
 ## App Link
 You can access the running instance of the app at:
 [https://mriddler.shinyapps.io/Vancouver_Parking_v2/](https://mriddler.shinyapps.io/Vancouver_Parking_v2/)
